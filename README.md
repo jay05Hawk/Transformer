@@ -60,11 +60,13 @@ Finally, since we’re dealing with matrices, we can condense steps two through 
 
 ![image](https://user-images.githubusercontent.com/122109969/214244658-5f81dc37-cd15-4c55-a469-56e15c5b8285.png)
 
+![image](https://user-images.githubusercontent.com/122109969/214245530-5e44e5b5-feb6-45f8-be18-f0373f389bb7.png)
+
 Just checkout-------research paper https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 
 ![image](https://user-images.githubusercontent.com/122109969/214245180-f6d7c3c6-21f5-4573-b67d-90c9bb023bc7.png)
 
-![image](https://user-images.githubusercontent.com/122109969/214245530-5e44e5b5-feb6-45f8-be18-f0373f389bb7.png)
+
 
 ![image](https://user-images.githubusercontent.com/122109969/214245629-6682611e-c1fd-4ad0-b777-8778c585b173.png)
 
